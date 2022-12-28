@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="spinnerItems">
+        <item>Select Fundraise Type..</item>
+        <item>Medical</item>
+        <item>Education</item>
+        <item>Memorial</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>

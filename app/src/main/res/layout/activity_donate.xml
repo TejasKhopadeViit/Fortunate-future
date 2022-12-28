@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/c"
+    android:layout_height="match_parent"
+    tools:context=".donate">
+<androidx.appcompat.widget.AppCompatButton
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColor="@color/white"
+    android:textSize="20dp"
+    android:fontFamily="@font/aclonica"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="50dp"
+    android:layout_marginBottom="20dp"
+    android:background="@drawable/buttonstyle5"
+    android:text="Donate Money"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle"
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp" />
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379510162955",
+    "project_id": "crowdfunding-2017f",
+    "storage_bucket": "crowdfunding-2017f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379510162955:android:e349f0b30e05c328e1a90e",
+        "android_client_info": {
+          "package_name": "com.example.fortunatefuture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379510162955-be6t7vqrgjf4f67f8eip603c668o0ueg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4m5qtmbLJDCusOLBc3w8rGoJp3I2QfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379510162955-be6t7vqrgjf4f67f8eip603c668o0ueg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
